@@ -1,0 +1,44 @@
+{
+    "bg": "https://c.wallhere.com/photos/66/38/Dragon_Ball_Dragon_Ball_Z_Son_Goku_Kid_Goku_anime-141927.jpg!d",
+    "title": "Quiz de Dragon Ball",
+    "description": "Teste os seus conhecimentos sobre o universo de Goku!",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#b23c17",
+        "secondary": "#b26500",
+        "mainBg": "#ffa733",
+        "contrastText": "#b26500",
+        "wrong": "#b2102f",
+        "success": "#357a38",
+        "white":"#FFF"
+      },
+      "borderRadius": "4px"
+    }
+  }

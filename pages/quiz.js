@@ -114,13 +114,13 @@ export default function QuizPage() {
   // React.useEffect
   // atualizado === willUpdate
   // morre === willUnmount
-  React.useEffect(() => {
-    // fetch() ...
-    setTimeout(() => {
-      setScreenState(screenStates.QUIZ);
-    }, 3 * 1000);
-  // nasce === didMount
-  }, []);
+  // React.useEffect(() => {
+  //   // fetch() ...
+  //   setTimeout(() => {
+  //     setScreenState(screenStates.QUIZ);
+  //   }, 3 * 1000);
+  // // nasce === didMount
+  // }, []);
 
   function handleSubmitQuiz() {
     const nextQuestion = questionIndex + 1;

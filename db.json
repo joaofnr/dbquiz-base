@@ -2,27 +2,29 @@
     "bg": "https://c.wallhere.com/photos/66/38/Dragon_Ball_Dragon_Ball_Z_Son_Goku_Kid_Goku_anime-141927.jpg!d",
     "title": "Quiz de Dragon Ball",
     "description": "Teste os seus conhecimentos sobre o universo de Goku!",
+    "loadingImg" : "https://media1.tenor.com/images/bf4cca58514197f13d8a1cbbf4959a0e/tenor.gif?itemid=11577624",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media.tenor.com/images/cff2f420c85f8791f3d0e8fe5ec73043/tenor.gif",
+        "title": "Quantos anos Goku tinha quando a saga começou?",
+        "description": "Ele era garotinho, lembra?",
+        "answer": 3,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "9 anos",
+          "10 anos",
+          "11 anos",
+          "12 anos"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://i.pinimg.com/originals/2d/12/1b/2d121b7a402498039b717b7c95284b3e.gif",
+        "title": "Quantas esferas do dragão Bulma tinha quando conheceu Goku?",
+        "description": "Não vale colar!",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "2",
+           "1",
+           "Nenhuma"
         ]
       }
     ],

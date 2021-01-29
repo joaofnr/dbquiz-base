@@ -6,6 +6,8 @@ import Widget from '../src/components/Widget';
 import Footer from '../src/components/Footer';
 import GitHubCorner from '../src/components/GitHubCorner';
 import QuizBackground from '../src/components/QuizBackground';
+import Input from '../src/components/Input';
+import Button from '../src/components/Button';
 
 export const QuizContainer = styled.div`
   width: 100%;
@@ -17,12 +19,6 @@ export const QuizContainer = styled.div`
     padding: 15px;  
     margin-top: 140px;
   }
-`;
-
-export const Input = styled.input`
-  width: 100%;
-  padding: .3rem;
-  border-radius: 5px;
 `;
 
 export const SubmitButton = styled.button`
@@ -62,17 +58,16 @@ export default function Home() {
             }}
             >
               <Input
-                onChange={(e) => {
-                  setName(e.target.value);
-                }}
+                onChange={(e) => { setName(e.target.value); }}
                 id="nome"
                 name="name"
+                value={name}
                 placeholder="Escreva seu nome para começar!"
               />
-              <SubmitButton type="submit" disabled={name.length === 0}>
+              <Button type="submit" disabled={name.length === 0}>
                 BORA COMEÇAR
-                {name.length > 0 ? `, ${name}` : ''}
-              </SubmitButton>
+                {name.length > 0 ? `, ${name}!` : ''}
+              </Button>
             </form>
           </Widget.Content>
         </Widget>

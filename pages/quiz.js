@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
+import { useRouter } from 'next/router';
 import db from '../db.json';
 import Widget from '../src/components/Widget';
 import QuizLogo from '../src/components/QuizLogo';
@@ -9,6 +10,8 @@ import Button from '../src/components/Button';
 import AlternativeForm from '../src/components/AlternativeForm';
 
 function ResultWidget({ results }) {
+  const router = useRouter();
+  // console.log(router);
   return (
     <Widget>
       <Widget.Header>
@@ -17,7 +20,8 @@ function ResultWidget({ results }) {
 
       <Widget.Content>
         <p>
-          Você acertou
+          {router.query.name}
+          , você acertou
           {' '}
           {/* {results.reduce((somatoriaAtual, resultAtual) => {
             if (resultAtual === true) {

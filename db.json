@@ -23,8 +23,106 @@
         "answer": 0,
         "alternatives": [
            "2",
+           "3",
            "1",
            "Nenhuma"
+        ]
+      },
+      {
+        "image": "https://static.comicvine.com/uploads/original/11135/111351540/6439318-7028465982-tumbl.gif",
+        "title": "Qual edição do Torneiro de Artes Marciais Goku participou pela primeira vez?",
+        "description": "Goku foi pra lá ainda pequeno!",
+        "answer":3,
+        "alternatives":[
+          "7ª",
+          "11ª",
+          "15ª",
+          "21ª"
+        ]
+      },
+      {
+        "image": "https://24.media.tumblr.com/b38f8042e92cbd1d5cccbcd49e8860ef/tumblr_mzqw5sgDeu1tq9c0so1_500.gif",
+        "title": "Qual nome o Mestre Kame usou para se disfarçou no torneio de artes marciais?",
+        "description":"Ele se disfarçou para poder participar sem ser reconhecido por Goku e Kulilin",
+        "answer":1,
+        "alternatives":[
+          "Bruce Li",
+          "Jackie Chun",
+          "Jet Lee",
+          "Mutenroshi",
+          "Sheng"
+        ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6423/b06adad652d9184d55bcc3ad7db9e8348eae9b19_hq.gif",
+        "title": "Qual o nome da técnica especial criada pelo mestre Mutaito para aprisionar Piccolo?",
+        "description":"Mestre Kame também sabe usar esta técnica",
+        "answer":2,
+        "alternatives":[
+          "Kame Hame Ha",
+          "Makankousappou",
+          "Mafuba",
+          "Tayoken"
+        ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6731/53671a68ee5f0208dfd1902eb37edfbf6bf36778_00.gif",
+        "title": "O General Red, do exército Red Ribbon, queria juntar as esferas do dragão para realizar qual desejo?",
+        "description":"Ele quase conseguiu, mas foi morto por Black",
+        "answer":1,
+        "alternatives":[
+          "Para conseguir uma arma ultra poderosa",
+          "Para ficar mais alto",
+          "Para ficar mais bonito",
+          "Para se aposentar"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/e8/9f/c7/e89fc73b0c6398fe5417afe8965e6c31.gif",
+        "title": "Qual era a rotina de treinamento do Mestre Kame dado a Goku e Kulilin?",
+        "description":"Os dois se tornaram muito mais fortes do que poderiam imaginar!",
+        "answer":2,
+        "alternatives":[
+          "Fazer exercícios, carregar caixas de frutas, atravessar uma floresta e treinar combate",
+          "Enfrentar um dinossauro, atravessar um lago, estudar e arar o campo",
+          "Carregar caixas de leite, cultivar campos, estudar, atravessar um lago nadando e se esquivar de abelhas",
+          "Carregar caixas de leie, treinar combate, esquivar de abelhas e enfrentar um urso"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/63/ce/cc/63ceccec389a3d36374cb56de7618819.gif",
+        "title": "Quais desses NÃO foi discípulo do Mestre Kame?",
+        "description": "Apesar de safado, Mestre Kame foi muito importante para as artes marciais",
+        "answer":3,
+        "alternatives":[
+          "Kulilin",
+          "Rei Cutelo",
+          "Yamcha",
+          "Tenshinhan"
+        ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6599/27cac2d8288445924b599f38fe3c5b852be442b9_hq.gif",
+        "title": "Quem Goku enfrentou na final do torneio de artes marciais em que foi campeão?",
+        "description": "Ele só venceu uma vez, sabia?",
+        "answer": 1,
+        "alternatives":[
+          "Kulilin",
+          "Piccolo",
+          "Tenshinhan",
+          "Tao Pai Pai"
+        ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6467/4193726ca057edce00d067b759b153f6e6e884ab_hq.gif",
+        "title": "Pra terminar: quais foram os desejos realizados por Sheng Long em Dragon Ball?",
+        "description": "Não considere a fase Z!",
+        "answer": 3,
+        "alternatives":[
+          "Ressuscitar Kulilin, rejuvenescer Piccolo Daimao, trazer imortalidade para Mestre Kame e reconstruir o corpo de Yamcha",
+          "Trazer uma calcinha para Oolong, reviver todos que foram mortos por Piccolo Daimao, destruir o castelo do Red Ribbon e rejuvenescer Piccolo Daimao",
+          "Ressuscitar Kulilin, rejuvenescer Piccolo Daimao e trazer todos os habitantes de Namekusei para a Terra",
+          "Trazer uma calcinha para Oolong, reviver o pai de Upa, rejuvenescer Piccolo Daimao e ressuscitar todos que foram mortos por Piccolo Daimao"
         ]
       }
     ],
